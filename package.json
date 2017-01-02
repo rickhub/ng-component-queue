@@ -14,7 +14,7 @@
   "files": [
     "README.md",
     "src/module.js",
-    "src/ng-component-queue.js",
+    "src/ng-components-queue.js",
     "src/ng-components-host.js"
   ],
   "repository": {
@@ -27,6 +27,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "ng-compile-component": "1.1.0"
+    "ng-compile-component": "2.0.0"
   }
 }
