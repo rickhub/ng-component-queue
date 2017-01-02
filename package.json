@@ -1,0 +1,29 @@
+{
+  "name": "ng-component-queue",
+  "version": "1.0.0",
+  "dscription": "AngularJS component-queue with promise-support.",
+  "keywords": [
+    "AngularJS",
+    "Components",
+    "Compile",
+    "Queue",
+    "Promise"
+  ],
+  "author": "Ricard Derheim <rderheim@derheim-software.de>",
+  "main": "src/ng-component-queue.js",
+  "files": [
+    "README.md",
+    "src/module.js",
+    "src/ng-component-queue.js",
+    "src/ng-components-host.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rickhub/ng-component-queue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rickhub/ng-component-queue/issues",
+    "email": "rderheim@derheim-software.de"
+  },
+  "license": "MIT"
+}
