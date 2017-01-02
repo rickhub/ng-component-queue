@@ -1,7 +1,7 @@
 {
-  "name": "ng-component-queue",
+  "name": "ng-components-queue",
   "version": "1.0.0",
-  "dscription": "AngularJS component-queue with promise-support.",
+  "dscription": "AngularJS components-queue with promise-support. Great for building stacked modal dialogs.",
   "keywords": [
     "AngularJS",
     "Components",
@@ -25,5 +25,8 @@
     "url": "https://github.com/rickhub/ng-component-queue/issues",
     "email": "rderheim@derheim-software.de"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ng-compile-component": "1.1.0"
+  }
 }
