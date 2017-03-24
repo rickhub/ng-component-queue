@@ -1,6 +1,6 @@
 {
   "name": "ng-components-queue",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dscription": "AngularJS components-queue with promise-support. Great for building stacked modal dialogs.",
   "keywords": [
     "AngularJS",
