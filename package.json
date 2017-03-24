@@ -27,6 +27,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "ng-compile-component": "2.0.1"
+    "ng-compile-component": "2.1.0"
   }
 }
